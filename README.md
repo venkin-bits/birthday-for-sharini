@@ -1,39 +1,19 @@
-## 🎉 Birthday Greeting Webpage 
+🎂 Happy Birthday, Sharini 🎉
+A beautifully animated birthday website made with love and a little code magic.
 
-[Demo](https://fajarghifar.github.io/happybirthday/)
+This project was customized by Venkatesh as a birthday surprise for Sharini, featuring:
 
-## 🚀 How to Use
+🎈 Floating balloons
+💬 Personalized messages
+🎵 Background music
+🖼️ Custom image and design
+📌 Live Demo
+🔗 Click here to view the live site
 
-1.  **Clone Repository**
+🧡 Credits
+This project is based on the open-source HappyBirthday template
+by @fajarghifar, licensed under the MIT License.
 
-    ```bash
-    # Clone this repository or download it
-    $ git clone https://github.com/fajarghifar/happybirthday
+Modified and customized with 💖 by Venkatesh
 
-    # Go into the repository
-    $ cd happybirthday
-
-    # Open it with your text editor
-    $ code .
-    ```
-
-2. **Open with Live Server**
-
-    Your site is now running!
-
-3. **Deployment**
-
-    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages). Alternatively, you can use [Netlify](https://www.netlify.com/).
-
-## 📝 Contributing
-
-If you have any ideas to make it more interesting, please submit a pull request or create an issue for a feature request.
-
-## 🤝 License
-
-### [MIT](LICENSE)
-
-> Github [@fajarghifar](https://github.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Youtube [@fajarghifar](https://www.youtube.com/@fajarghifar/) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Linkedin [@fajarghifar](https://www.linkedin.com/in/fajarghifar/)
+📂 Project Structure
