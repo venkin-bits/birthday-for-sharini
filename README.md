@@ -8,7 +8,7 @@ This project was customized by Venkatesh as a birthday surprise for Sharini, fea
 🎵 Background music
 🖼️ Custom image and design
 📌 Live Demo
-🔗 Click here to view the live site
+🔗 https://venkin-bit.github.io/birthday-for-sharini
 
 🧡 Credits
 This project is based on the open-source HappyBirthday template
